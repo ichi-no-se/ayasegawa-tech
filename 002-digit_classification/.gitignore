@@ -1,0 +1,4 @@
+*.pth
+model_weights.json
+data/
+__pycache__/
