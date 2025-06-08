@@ -1,6 +1,6 @@
 # 文字認識コードゴルフ
 
-詳細は[ブログ記事](https://star-code-net/blog/digit-recognition)をご覧ください．
+詳細は[ブログ記事](https://star-code-net/blog/digit-classification-golf)をご覧ください．
 
 python を用います．`torch` とか `torchvision` とかが使える必要があります．
 
